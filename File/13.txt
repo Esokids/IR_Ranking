@@ -1,0 +1,10 @@
+Japan Is Going to Start Hacking Its Citizens
+
+If you have any smart appliance, like a connected thermostat or Wi-Fi security camera, chances are it's extremely hackable. 
+Internet of Things devices tend to have such poor security that your best bet, if data privacy is your number one concern, 
+is to instead buy the dumbest appliances you can find. But for people in Japan who bought smart devices anyway,
+ their government is going to test the security of those devices by trying to hack them.
+
+Starting next month, employees of Japan’s National Institute of Information and Communications Technology will travel the country,
+ trying to gain access to citizens’ most vulnerable electronics. These employees will use default passwords and lists of commonly
+ used passwords to probe some 200 million IoT devices.

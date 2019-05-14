@@ -1,0 +1,15 @@
+oogle Calls Hidden Microphone in Its Nest Home Security Devices an 'Error'
+
+Google's Nest Secure home security device is meant to do what its name suggests: make homes safer. 
+But, in a completely unsurprising turn, the device is now sparking privacy concerns. The tech giant failed to notify 
+users that its home security device came equipped with a microphone, an oversight Google has called an "error," per Business Insider.
+
+The discovery was made sort of by accident. Earlier this month, Google notified users that Nest Guard (the alarm, 
+keypad and motion-sensor component of Nest Home Secure) was now compatible with the company's 
+Home Assistant voice-control function. However, to be compatible with a voice control feature, the device would 
+need to have a microphone, and Google had never made mention of a mic embedded in the device.
+
+The company insists the mic wasn't meant to be a secret. "The on-device microphone was never intended to be a secret 
+and should have been listed in the tech specs," a spokesperson told Business Insider. But its existence lends credence to 
+the very real paranoia about the plethora of microphone-equipped devices all around us—that big tech is eavesdropping 
+on us to fuel advertising schemes. And the fact that Google seemingly forgot to tell everyone about it doesn't help.

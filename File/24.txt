@@ -1,0 +1,16 @@
+The Drones Are Drilling Holes Now
+
+Built by UNL's NIMBUS Lab, the quadcopter is equipped with a big ol' drill that, once the drone has gingerly landed, 
+can be used to burrow into the dirt, sand, or clay beneath it, primarily for scientific purposes. 
+
+But a digging drone isn't as easy as just strapping a drill to a quad. Drones already tend to have short battery lives, 
+with top-shelf drones like the DJI Mavic Pro Platinum topping out at 30 minutes. Adding a giant drill that is both heavy in 
+flight and requires energy of its own while in use only exacerbates the problem. 
+
+"Battery powered drones have very short flight times, especially when flying with a heavy load, which we are since we 
+have our digging apparatus and sensor system," says NIMBUS codirector Carrick Detweiler, speaking to IEEE Spectrum. 
+The NIMBUS solution? More drones.
+
+"We need to hitch a ride on another vehicle," Detweiler says. After flying with another drone, it parachutes in. 
+"This allows allows it to save energy for return trips. In this video we used a much larger gas powered UAS with multiple 
+hours of flight time, but our same system could be deployed from manned aircraft or other systems."

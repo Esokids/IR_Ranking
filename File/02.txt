@@ -1,0 +1,14 @@
+The winner takes it all
+Nanowire networks are promising for providing a low-energy solution to storing and processing 
+large amounts of data on brain-inspired computer chips.
+
+Memristors are resistors that can simultaneously store and process data. 
+Networks of metal nanowires could be used to make memristors for artificial intelligence (AI).
+
+A team that included researchers from University College Cork in Ireland made a random 
+network of silver nanowires connected by junctions, similar to the way neurons are connected by 
+synapses in the brain. They then tweaked the network until a ‘winner-takes-all’ pathway emerged,
+such that all the stored memory became restricted to a single connectivity pathway that required the least energy to create.
+
+Improvements to brain-inspired computing are gradually paving the way for AI with 
+increasing levels of seemingly natural intelligence.

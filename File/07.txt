@@ -1,0 +1,12 @@
+1TB microSD cards are now a thing
+
+The inexorable march of increasing storage capacities continues today with the announcement of the world’s first 1-terabyte 
+microSD cards. Micron and Western Digital’s SanDisk brand have both launched UHS-I microSDXC products today at Mobile World Congress,
+ which will be good news for anyone looking at Samsung’s new 1TB Galaxy S10 Plus and thinking “what if that, but doubled?”
+
+Of the two cards, Western Digital is claiming a performance advantage by citing up to 160MB/s read speed versus 100MB/s for Micron’s. 
+The Micron card’s max write performance is 5MB/s faster at up to 95MB/s, however.
+
+The SanDisk card will be available from April for $449.99, which is a pretty high convenience premium considering the new 512GB card 
+in the same line will sell for $199.99. Pricing for the Micron card hasn’t yet been announced, but a spokesperson tells us it’ll be 
+“priced competitively” when it’s released in the second quarter of this year.

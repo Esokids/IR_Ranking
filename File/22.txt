@@ -1,0 +1,14 @@
+Industrial Cranes Are Disturbingly Hackable
+
+Ever wanted to control a giant crane? Hackers might be able to help you out. Cybersecurity experts at Trend Micro have shared 
+an upcoming paper with Forbes that details the various ways in which commercial cranes are extremely susceptible to hacking attempts. 
+
+The main vulnerability, the paper states, is that many cranes are controlled with devices that use ancient, proprietary wireless protocols. 
+These protocols tend to contain vulnerabilities that hackers can exploit since they were designed at a time that safety was a higher 
+priority than security. Now, more standardized and secure protocols have been developed, but cranes that haven't been updated to 
+use them only have security through obscurity; once hackers know what kind of proprietary protocol a given crane uses, the hacking is fairly trivial. 
+
+Trend Micro's flashy paper lays out the various exploits hackers found to be possible, which range widely in severity. On the more covert and less 
+dangerous end, hackers were able to engage cranes' safety override features and essentially render them useless by constantly shutting them down.
+On the more flashy and dangerous end, hackers were able to give cranes completely fabricated commands and could even do so remotely so long 
+as a small piece of hardware to relay the nefarious instructions was hidden somewhere on the scene. 

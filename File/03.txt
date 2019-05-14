@@ -1,0 +1,20 @@
+LIGO will be getting a quantum upgrade
+
+WASHINGTON — Gravitational wave detectors are going quantum.
+
+A planned revamp of the Advanced Laser Interferometer Gravitational-Wave Observatory, LIGO, 
+relies on finessing quantum techniques, LIGO scientists announced February 14. That $35 million 
+upgrade could let scientists catch a gravitational wave every day, on average. LIGO’s current tally
+of 11 gravitational wave events could be surpassed in a single week, LIGO researchers said in a news 
+conference at the annual meeting of the American Association for the Advancement of Science.
+
+Starting up in 2024, the revved up detector, known as Advanced LIGO Plus, will seek to wrangle a 
+quantum rule, the Heisenberg uncertainty principle, to improve the machine’s ability to detect ripples in spacetime. 
+The Heisenberg uncertainty principle states that it’s impossible to precisely measure certain properties, 
+such as the position and momentum of an object, at the same time.
+
+In LIGO, this translates to a give-and-take in the light scientists monitor to detect gravitational waves. 
+At each of the observatory’s two detectors, located in Livingston, La., and Hanford, Wash., 
+laser light bounces back and forth within two 4-kilometer-long arms arranged in an “L”. 
+To determine whether a gravitational wave is passing through, scientists measure the brightness 
+of the light where the arms meet and the beams recombine (SN: 3/5/16, p. 22).

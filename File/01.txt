@@ -1,0 +1,26 @@
+Colliding neutron stars shot a light-speed jet through space
+
+When a pair of ultradense cores of dead stars smashed into one another, 
+the collision shot a bright jet of charged subatomic particles through space.
+
+Astronomers thought no such jet had made it out of the wreckage of the neutron star crash, 
+first detected in August 2017. But new observations of the crash site using a network of radio telescopes 
+from around the world show that a high-speed stream of particles did escape from the debris, researchers report online February 21 in Science.
+
+The work is part of an emerging consensus among scientists that the merger actually produced a jet, 
+and could shed light on the origins of mysterious flashes of high-energy light called short gamma-ray bursts.
+
+According to theory, a pair of crashing neutron stars should merge into another dense object, 
+possibly a black hole. In the process, a combination of extreme energies and magnetic fields 
+could launch a bright jet of electrons and protons moving close to the speed of light. 
+Researchers think that such jets are seen from afar as short gamma-ray bursts, or GRBs. 
+But no one has ever directly observed a neutron star collision producing the bursts.
+
+The 2017 neutron star crash — the first time scientists had directly observed such a merger — provided the 
+first chance to test the idea, says study coauthor and astrophysicist Giancarlo Ghirlanda of the National Institute 
+for Astrophysics in Merate, Italy. That merger was picked up when the Advanced Laser Interferometer Gravitational-Wave Observatory, 
+or LIGO, and its sister experiment, Advanced Virgo, detected ripples in spacetime called gravitational waves caused by the crash.
+
+Previous gravitational wave detections involved colliding black holes, which did not emit any observable light. 
+But the neutron star crash glowed in every wavelength of light astronomers checked, from long radio waves to 
+short gamma rays (SN: 11/11/17, p. 6). Those extra observations let astronomers tease out details of the crash and its aftermath.

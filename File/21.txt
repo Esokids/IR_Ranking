@@ -1,0 +1,13 @@
+The Solar Revolution Is Coming—But It's Skipping Over Communities of Color
+
+While the United States has seen substantive growth in homes using photovoltaic (PV) solar energy over the last several years, 
+this growth has been uneven. According to a new study from Tufts, fewer African-American and Hispanic neighborhoods are 
+gaining the benefits of solar power, even when controlling for home ownership and income level.
+
+“Solar power is crucial to meeting the climate goals presented by the Intergovernmental Panel on Climate Change, 
+but we can and need to deploy solar more broadly so that it benefits all people, regardless of race and ethnicity,
+” says Deborah Sunter, an assistant professor of mechanical engineering at Tufts and the study’s lead author, 
+in a press statement. “Solar energy can be a resource for climate protection and social empowerment.”
+
+The study used Google's Project Sunroof, which collects data from Google Maps to analyze the solar potential 
+of neighborhoods as well as how many solar projects exist in any given area.
