@@ -1,21 +1,25 @@
 import glob
+from pathlib import Path
 import pandas as pd
 import re
 import fnmatch
+from time import time
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.stem import SnowballStemmer
 from sklearn.feature_extraction.stop_words import ENGLISH_STOP_WORDS
 stem = SnowballStemmer('english')
 stopwords = ENGLISH_STOP_WORDS
-regex = re.compile(r"\b\w{3,}\b")
+regex = re.compile(r"\b\w{2,}\b")
 
 
 def open_read_file():
     file = list()
+    doc = list()
     for filename in glob.glob('.\\File\\*.txt'):
+        doc.append(Path(filename).stem)
         with open(filename, 'r') as f:
             file.append(f.read())
-    return file
+    return file, doc
 
 
 def tokenize(text):
@@ -27,7 +31,7 @@ def tokenize(text):
 
 def search_preprocess(keyword, df):
     tokens = df.columns
-    keyword = keyword.split()
+    keyword = tokenize(keyword)
     search_words = list()
 
     for i in keyword:
@@ -52,23 +56,26 @@ def search(keyword=None, df=None):
 
 
 def main():
-    file = open_read_file()
-    df = pd.DataFrame({'text': file})
+    file, doc = open_read_file()
+    df = pd.DataFrame({'text': file}, index=doc)
 
     v = TfidfVectorizer(smooth_idf=False, sublinear_tf=True, tokenizer=tokenize)
     x = v.fit_transform(df['text'])
 
-    tfidf = pd.DataFrame(x.toarray(), columns=v.get_feature_names())
-    search_words = search_preprocess('150 y*', tfidf)
-    print(search_words)
+    tfidf = pd.DataFrame(x.toarray(), columns=v.get_feature_names(), index=doc)
+    search_words = search_preprocess('Drones Are Dropping Poison on Rats', tfidf)
+    # print(search_words)
     result = search(search_words, tfidf)
 
     if result is False:
         print("Not found")
     else:
         for i in result:
-            print(f"{int(i)+1}.txt")
+            print(f"{i}.txt")
 
 
 if __name__ == '__main__':
+    start_time = time()
     main()
+    end_time = time()
+    print("Total Times : %.4f" % (end_time-start_time))
