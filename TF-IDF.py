@@ -7,6 +7,7 @@ from time import time
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.stem import SnowballStemmer
 from sklearn.feature_extraction.stop_words import ENGLISH_STOP_WORDS
+
 stem = SnowballStemmer('english')
 stopwords = ENGLISH_STOP_WORDS
 regex = re.compile(r"\b\w{2,}\b")
@@ -59,12 +60,13 @@ def main():
     file, doc = open_read_file()
     df = pd.DataFrame({'text': file}, index=doc)
 
-    v = TfidfVectorizer(smooth_idf=False, sublinear_tf=True, tokenizer=tokenize)
+    v = TfidfVectorizer(smooth_idf=False, sublinear_tf=True, tokenizer=tokenize, ngram_range=(1,2))
     x = v.fit_transform(df['text'])
 
     tfidf = pd.DataFrame(x.toarray(), columns=v.get_feature_names(), index=doc)
-    search_words = search_preprocess('Drones Are Dropping Poison on Rats', tfidf)
-    # print(search_words)
+    search_words = search_preprocess('When it gets too cold out, some train tracks have to be heated to prevent damage', tfidf)
+    # tfidf.to_csv("TF-IDF.csv")
+    print(search_words)
     result = search(search_words, tfidf)
 
     if result is False:
