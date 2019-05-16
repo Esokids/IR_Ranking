@@ -1,10 +1,8 @@
 import glob
 import pandas as pd
-import numpy as np
 import re
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.stem import SnowballStemmer
-from nltk.tokenize import word_tokenize
 from sklearn.feature_extraction.stop_words import ENGLISH_STOP_WORDS
 stem = SnowballStemmer('english')
 stopwords = ENGLISH_STOP_WORDS
@@ -27,6 +25,22 @@ def tokenize(text):
     return stems
 
 
+def search(keyword=None, data=None):
+    if keyword is None:
+        return False
+
+    temp = pd.DataFrame()
+
+    for i in keyword:
+        if i in data:
+            temp[i] = pd.Series(data[i].values, index=data.index)
+    temp['Sum'] = pd.Series(temp.sum(axis=1), index=data.index)
+    temp = temp.sort_values(by=['Sum'], ascending=False)
+
+    idx = temp.index[temp['Sum'] > 0].tolist()
+    return idx
+
+
 def main():
     file = open_read_file()
     df = pd.DataFrame({'text': file})
@@ -35,7 +49,11 @@ def main():
     x = v.fit_transform(df['text'])
 
     tfidf = pd.DataFrame(x.toarray(), columns=v.get_feature_names())
-    print(tfidf)
+    #print(tfidf)
+
+    result = search(tokenize('150 year'), tfidf)
+    for i in result:
+        print(f"{int(i)+1}.txt")
 
 
 if __name__ == '__main__':
