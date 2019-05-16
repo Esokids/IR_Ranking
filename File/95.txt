@@ -1,0 +1,3 @@
+These programmes never provided great detail. Using automated identification technologies, such as radio frequency identification tags and 2D barcodes, food retailers provided instant data on product origin to consumers through smartphone applications. But until now comprehensive data of our food provenance has been lacking. Our modern supply chains have had too many isolated moving parts to assimilate.
+
+“An enormous amount of time is spent reconciling information between organisations because everyone maintains their own copy of a database,” observes Tyler Mulvihill, co-founder of Viant, the Brooklyn-based company building the software on the public ethereum blockchain.
