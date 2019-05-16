@@ -19,7 +19,6 @@ def open_read_file():
 
 
 def tokenize(text):
-    # tokens = word_tokenize()
     tokens = regex.findall(text)
     tokens = [token for token in tokens if token not in stopwords]
     stems = [stem.stem(token) for token in tokens]
@@ -31,11 +30,8 @@ def search_preprocess(keyword, df):
     keyword = keyword.split()
     search_words = list()
 
-    if len(keyword) == 0:
-        return None
-    else:
-        for i in keyword:
-            search_words.extend(fnmatch.filter(tokens, i))
+    for i in keyword:
+        search_words.extend(fnmatch.filter(tokens, i))
 
     return search_words
 
