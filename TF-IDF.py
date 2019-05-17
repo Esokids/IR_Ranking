@@ -31,9 +31,31 @@ def tokenize(text):
     return stems
 
 
+def preprocess(text):
+    tokens = text.split()
+    tokens = [token for token in tokens if token not in stopwords]
+    stems = [stem.stem(token) for token in tokens]
+    return stems
+
+
+def bigrams(tokens, min_n=1, max_n=2):
+    original_tokens = tokens
+    if min_n == 1:
+        tokens = list(original_tokens)
+        min_n += 1
+
+    n_original_tokens = len(original_tokens)
+    for n in range(min_n, min(max_n + 1, n_original_tokens + 1)):
+        for i in range(n_original_tokens - n + 1):
+            tokens.append(" ".join(original_tokens[i: i + n]))
+
+    return tokens
+
+
 def search_preprocess(keyword, df):
     corpus = df.columns
-    keyword = tokenize(keyword)
+    keyword = preprocess(keyword)
+    keyword = bigrams(keyword)
     search_words = list()
 
     for word in keyword:
@@ -76,6 +98,7 @@ def main():
     else:
         for i in result:
             print(f"{i}.txt")
+    # tfidf.to_csv("tfidf.csv")
 
 
 if __name__ == '__main__':
