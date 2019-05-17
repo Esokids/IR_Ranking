@@ -3,6 +3,7 @@ from pathlib import Path
 import pandas as pd
 import re
 import fnmatch
+import difflib
 from time import time
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.stem import SnowballStemmer
@@ -31,13 +32,16 @@ def tokenize(text):
 
 
 def search_preprocess(keyword, df):
-    tokens = df.columns
+    corpus = df.columns
     keyword = tokenize(keyword)
     search_words = list()
 
-    for i in keyword:
-        search_words.extend(fnmatch.filter(tokens, i))
-
+    for word in keyword:
+        if '*' in word:
+            search_words.extend(fnmatch.filter(corpus, word))
+        else:
+            search_words.extend(difflib.get_close_matches(word, corpus))
+    print(search_words)
     return search_words
 
 
@@ -64,9 +68,7 @@ def main():
     x = v.fit_transform(df['text'])
 
     tfidf = pd.DataFrame(x.toarray(), columns=v.get_feature_names(), index=doc)
-    search_words = search_preprocess('When it gets too cold out, some train tracks have to be heated to prevent damage', tfidf)
-    # tfidf.to_csv("TF-IDF.csv")
-    print(search_words)
+    search_words = search_preprocess('Why a data scientist warns against always trusting AI', tfidf)
     result = search(search_words, tfidf)
 
     if result is False:
