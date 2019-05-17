@@ -32,7 +32,7 @@ def tokenize(text):
 
 
 def preprocess(text):
-    tokens = text.split()
+    tokens = text.lower().split()
     tokens = [token for token in tokens if token not in stopwords]
     stems = [stem.stem(token) for token in tokens]
     return stems
