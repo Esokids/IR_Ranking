@@ -32,3 +32,5 @@ def make_bigrams(tokens, min_n=1, max_n=2):
             tokens.append(" ".join(original_tokens[i: i + n]))
 
     return tokens
+
+

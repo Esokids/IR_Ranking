@@ -1,8 +1,20 @@
 from time import time
-from Search import search
+from Search import search, new_search
 
 def main():
-    result = search("Respawn has dropped a brief update")
+    keyword = "data science data"
+    result = search(keyword)
+    if result is False:
+        print("Not found")
+    else:
+        for i in result:
+            print(f"{i}.txt")
+
+    # # # new search cosine similarity # # #
+    print("="*20, "new", "="*20)
+    # # # new search cosine similarity # # #
+
+    result = new_search(keyword)
     if result is False:
         print("Not found")
     else:
