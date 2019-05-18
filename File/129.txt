@@ -1,0 +1,7 @@
+The impressive File://maniac is a tantalising demo, proof-of-concept and pilot episode for an episodic series in development. On the surface, it's a point and click adventure game that asks you, a detective, to stop a serial killer. But it's the way you do this that's interesting. Each room features a puzzle that can only be overcome by you delving into your desktop, into the folders and files of the game itself.
+
+That's the actual game folder on your actual computer, File://maniac somehow knowing when you've deleted, copied or altered certain files in its directory. For example, you 'open' the front door by switching away from the executable and physically deleting 'door.cfg'. Later on, you'll rewire a lift by relocating files from one folder to another.
+
+It's ingenious stuff, that feels thrillingly fourth-wall-breaking to enact. It's just a shame the game never lets go of your hand, so you can figure out the puzzles for yourself. In every room, you're given the solution, you're told exactly what to do to carry on.
+
+An element of hand-holding is probably necessary, in a game as literally outside-the-box as this one. But hopefully the challenge will scale up, as each episode of the planned 'File://' series releases, to the point where we're left to unravel its mysteries all on our own.

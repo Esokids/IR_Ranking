@@ -1,0 +1,9 @@
+Rainbow Six Siege has been trying to figure out what to do about friendly fire and teamkilling for a long time now. This week, Ubisoft rolled out a solution it's been mulling over for a while: reverse friendly fire.
+
+Simply put, reverse friendly fire (RFF) reflects damage done to teammates back onto the attacker. It’s activated when a player kills a teammate, and the downed player either confirms that the kill was done intentionally or "forgives" the attacker. A confirmed teamkill triggers the RFF effects, and further damage done to teammates by that attacker is absorbed by the source of the damage. So, after killing a teammate, if you shoot a friendly player, you’ll take whatever damage they would have taken, and if you use a damage-dealing gadget like Twitch’s Shock Drone or Maestro’s Evil Eye camera, the damage will reflect back onto the gadget.
+
+This solves the problem of created by the system that automatically kicks players on their second team kill. In a 5v5 game, griefers were routinely able to effectively throw matches by killing two friendlies and then getting booted, giving the opposing team a 5v2 advantage. But accidents do happen, and not everyone is careful around other players’ fields of fire, and this new system allows for that.
+
+It should be noted that the current RFF system automatically tallies total damage done to teammates, so it’s not strictly necessary for a downed teammate to validate a teamkill to activate the RFF effects. If a player passes a certain threshold of friendly damage, the RFF effects will kick in on their own.
+
+Ubisoft says this isn’t the final version of the RFF system, and that they’ll continue to consider community feedback as they fiddle with it. The sheer number of different operators in Siege make this system fairly complicated in practice, and Ubisoft has a breakdown of how RFF works over at the official Siege blog.

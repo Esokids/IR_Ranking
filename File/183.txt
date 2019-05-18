@@ -1,0 +1,5 @@
+It's been ten years since the first public version of Minecraft released on the TIGSource forums, and a lot has happened since then: Microsoft owns it, 74 million people play it monthly, and there's even a film adaptation in the offing. It's original creator, Markus "Notch" Persson, has been scrubbed from its credits. 
+
+Unlike say, World of Warcraft, Minecraft has received ongoing additions and improvements rather than huge fundamental changes, so it's hard to feel nostalgic for its past. But in case you do, the very first public build of Minecraft is now available to play. Best of all it's free, and you can do it right now in your web browser. 
+
+It comes courtesy of Mojang, who will celebrate the ten year milestone on May 17 (the official commercial version of Minecraft didn't release until 2011). You'll immediately notice the simplicity of the procedural generation, as well as the miserly 32 blocks to choose from. Oh, and the interface sucks. But it's an interesting historical keepsake. 

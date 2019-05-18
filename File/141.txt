@@ -1,0 +1,7 @@
+Outward is both a hardcore fantasy RPG and a game where you can never die. When you fall, the story carries on. Maybe the outlaw who knocked you down captures you and you have to escape from a bandit camp, maybe a hunter finds you bleeding on the ground and drags you back to town. It's an unusual combination of fiddly and forgiving, and it's proven a hit with players.
+
+Guillaume Boucher-Vidal, CEO of the indie studio responsible for it, Nine Dots, recently gave an interview to Gamasutra about how Outward was made, explaining how a small team was able to create an open-world RPG without needing to crunch.
+
+For starters, they reigned in the scope. Early in development they discovered environments were taking longer to craft than expected, but monsters were coming much faster. He explained that, "as we advanced in development we realized that we were able to make a much higher number of enemies, but we had to slim down the number of environments. We could sort of shape the game according to our own abilities while we were developing. It was more effective, and it was also a matter of maintaining the velocity."
+
+Boucher-Vidal also suggested that a reliance on iteration and prototyping to "find the fun" were wasteful, and that sticking to a pre-production design document rather than experimenting during production helped them stick to a schedule. "I see the game design job as being closer to an architect or director," he said, "like you would see on movies where you actually have a plan laid out and try to execute it."

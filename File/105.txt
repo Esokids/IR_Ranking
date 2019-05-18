@@ -1,0 +1,9 @@
+The Xbox One May 2019 update is rolling out, bringing a variety of improvements mostly centered around organization. Your Friends List, Messages, and Games and Apps will all be a little easier to navigate after you download the update.
+
+The Friends List update adds icons that will let you know at a glance what platform your friends are playing on--one for Xbox One, PC, or mobile. As Xbox eyes expanding its Live service to other platforms, this is likely to become increasingly important going forward. For the time being, it's nice to have a little more information about what your friends are up to.
+
+Messages are getting tidier too. The Message Requests feature will more intelligently sort messages, prioritizing ones from your friends or anyone else you've communicated with, and sorting others from unknown contacts into a secondary tab. As part of the update, Microsoft warns, all previous group messages will be lost and will need to be manually archived through Xbox.com. You can review your messages here.
+
+Finally, your Games and Apps are getting a little cleaner by cutting articles like "a," "an," and "the" from the alphabetical sorting. For example, that means The Witcher 3 will be sorted under "W" instead of "T." Microsoft notes that this change was prioritized by a community vote, and that you can participate in future similar votes through the Xbox Idea Hub.
+
+We're less than a month from E3 2019 now, and Microsoft says it's planning to go big. We know that will mean new software announcements, but the studio could also give more details of its xCloud streaming platform, or even its plans for a next generation console.

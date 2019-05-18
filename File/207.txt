@@ -1,0 +1,1 @@
+As the World Wide Web developed and browsers became more sophisticated, people started creating browser games that used a web browser as a client. Simple single player games were made that could be played using a web browser via HTML and HTML scripting technologies (most commonly JavaScript, ASP, PHP and MySQL).

@@ -1,0 +1,1 @@
+MUD are a class of multi-user real-time virtual worlds, usually but not exclusively text-based, with a history extending back to the creation of MUD1 by Richard Bartle in 1978. MUD were the direct predecessors of MMORPG.

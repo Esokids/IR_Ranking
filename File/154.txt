@@ -1,0 +1,9 @@
+Some enterprising GTA 3 YouTubers and modders have discovered some of the original tools Rockstar developers used while building and debugging Grand Theft Auto III, and they provide a fascinating glimpse into the development process.
+
+Via Kotaku, YouTubers Vadim M and Badger Gooder have a video up that showcases many of the debug tools that have been discovered lingering in different builds of Grand Theft Auto III. Some of these were lying dormant in GTA III’s code, and many were created to use with PlayStation 2 devkits.
+
+Other debug scripts for GTA 3 were discovered in the mobile port by hackers like Fire Head, who managed to port them back into the console or PC versions.
+
+Some of the features let you see the character, vehicle, and environmental hitboxes and collision detection. Others let you attach a second controller to use developer console commands (important if you were debugging on a console), or use a freelook camera and warp your character to wherever you park it.
+
+It’s a pleasant and informative video, and you can watch the whole thing right here:

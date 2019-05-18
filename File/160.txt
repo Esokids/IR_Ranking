@@ -1,0 +1,5 @@
+Some great creations have already come out of the new Overwatch Workshop custom game builder, but my favorite so far is this firing range you can use to help improve your FPS aim. Created by Youtuber PMAJellies, the game is effectively the same as specialized aim training games like Aim Hero, but inside of Overwatch itself.
+
+To access the aim trainer, use the code WRP63 in the Overwatch Workshop. You can select the hero you'd like to practice with (one of the benefits of this being within Overwatch instead of a separate program), which is great for practicing the specific gun mechanics of different heroes. 
+
+Another great tool is "Darwin's Ana Nade Tool" by DarwinStreams, which gives you stats and a visual indicator to practice throwing Ana's healing grenade (Workshop code VQ077). Check it out in the video below:

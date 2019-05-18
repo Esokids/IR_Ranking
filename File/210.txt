@@ -1,0 +1,3 @@
+Deathmatch, also known as free-for-all, is a widely used gameplay mode integrated into many shooter, including first-person shooter (FPS), and real-time strategy (RTS) video games. Normally the goal of a deathmatch game is to kill (or "frag" [a military term]) as many other players as possible until a certain condition or limit is reached, commonly a frag limit or a time limit. Once one of the conditions is met, the match is over, and the winner is the player that accumulated the greatest number of frags.
+
+The deathmatch is an evolution of competitive multiplayer modes found in game genres such as fighting games and racing games moving into other genres.

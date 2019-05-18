@@ -1,0 +1,11 @@
+Next-generation consoles from Microsoft and Sony are coming, and Capcom says it is prepared in at least one way. One potential development issue when moving from one generation of consoles to the next can be related to game engines, or the tools used to make games.
+
+Capcom's proprietary engine, the RE Engine that is used for the Resident Evil games, was specifically designed from early on to be able to be tweaked for new consoles, management said during a recent earnings report. As such, Capcom sees its engine as one of its strengths heading into the new wave of systems.
+
+"The games we developed using the RE Engine during this current hardware generation have received critical acclaim, and from the early stages of building this engine, we kept the ability to augment it for next-generation development in mind; as such, we view the RE Engine as one of our strengths that will contribute to next-generation game creation," management said.
+
+As one of the biggest publishers in the world, and one that has a close relationship with Microsoft with the Dead Rising series, it seems likely that Capcom would be among those companies who are briefed on next-generation plans ahead of time.
+
+Microsoft is expected to announce at least one next-generation console at E3 in June. You can read GameSpot's breakdown of the new Xbox console rumors here to find out more. Sony, meanwhile, will not be at E3, but the company has already shared the first details of the PS5. For its part, Nintendo is rumored to be working on new consoles but it won't announce them at E3.
+
+One company that has created a new game engine recently is Microsoft. The Halo team created a brand-new engine called Slipspace that is powering the ambitious Xbox One and PC game Halo Infinite. According to a report, Microsoft might have spent around $500 million to develop Halo Infinite, a figure that also includes the cost of creating the Slipspace engine.

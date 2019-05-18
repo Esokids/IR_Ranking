@@ -1,0 +1,7 @@
+Respawn has dropped a brief update on the changes coming in Apex Legends' next undated patch.
+
+In a post on Reddit, Respawn community manager "Jayfresh_Respawn" updated players on the progress made since EA shared an Update to Apex Legends blog post last month. 
+
+"We are currently working on the next patch that will have improvements in the areas we’ll discuss below," Jayfresh said, before going through each item in term. The studio has now been able to reproduce and "locally fix" many cases of incorrect hit registration, and believes the issue mostly relates to "mismatches between the way the game client and server pose characters in their animations, but also caused by various other factors". 
+
+While the developer believes the next patch will address most of these issues, it acknowledges that there's still work to do, and that the incoming fix "will help weed out many of the less severe issues people are noticing, which will help [Respawn] understand more about whatever bugs may be remaining". 

@@ -1,0 +1,1 @@
+Use the arrow keys to control the muncher to eat all the food in the maze. When you have eaten the red food, you can eat the ghost as well.

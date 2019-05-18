@@ -1,0 +1,7 @@
+Fallout 76 recently introduced a new system that lets players run automated shops in their camps. You plunk down a vending machine in your settlement, fill it up with all the stuff you don’t want or can’t use, and other players can wander by and pay caps for anything that catches their hideously mutated eye.
+
+The trouble is, there’s a ten percent fee on every sale made from player-run shops, and as our pals over at GamesRadar have discovered, that’s rubbing some Fallout 76 players the wrong way.
+
+The issue Bethesda is trying to solve with the ten percent “tax” is one of inflation. Fallout 76 players are constantly generating caps within the gameworld, but there wasn’t a way for caps to leave the system. That leads to inflation—the phenomenon of prices rising due to currency becoming less and less valuable because there’s more and more of it around.
+
+The sales tax acts as a counter-inflationary force by pulling currency—caps—out of the system, which ultimately makes individual caps more valuable. That’s important, and can help keep prices from getting out of control, in a game in which players are suddenly able have retail businesses running.

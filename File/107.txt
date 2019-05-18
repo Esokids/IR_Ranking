@@ -1,0 +1,6 @@
+Making Glaz less lethal while mobile is an interesting rework idea, but I’m skeptical about 
+how much of an effect it’ll have. Glaz players will definitely be incentivized to move less through smoke, 
+but entry fragging still seems at least party possible. If the yellow highlight returns as quickly as it fades, 
+a Glaz could still step into a smoke cloud and spot an enemy through it. One interesting wrinkle to this 
+equation will be the new defender Warden, who is rumored to have special hardware that lets him see 
+through smoke and flash grenades. At the same time that Glaz’s scope is growing weaker, he’s got a new counter to deal with.

@@ -1,0 +1,3 @@
+Destiny 2 player Tazus has defeated the game's hardest boss, Riven—an enormous wish granting dragon—completely by himself. He's the first to do it (and record it), and although he won't necessarily be the last, the brave solo heroes who come after will have to contend with one problem: it's no longer possible to defeat Riven the way Tazus did.
+
+A damage-buffing bug to the top skill tree of the Hunter Arcstrider subclass was essential to the run, and that bug was patched out today. I'll spare you the nitty-gritty details—our friends at GamesRadar break it down here—but the bug allowed Tazus to deal massive damage, as if to a certain crab, with super-buffed Arc Staff attacks.

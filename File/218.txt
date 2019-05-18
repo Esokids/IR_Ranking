@@ -1,0 +1,20 @@
+‘DK(Dragon Knights) Online' is Classic 3D MMORPG.
+
+Based on the history of Europe, the Middle Ages, this game aims to realize 'the Middle Ages fantasy world realistically'.
+
+DK Online allows players to customize their characters by selecting the race and its specific classes.
+Players can immerse themselves in PvP, transformation into diverse monsters, and item reinforcements for endless hours of entertainment. In-game guilds and massive castle siege battles are also available for those who prefer playing as a team.
+
+Especially, DK online has high-quality graphic compared to the specification
+by the detail of the original art, reduced the unnecessary polygons,
+also requires less client & patch size than other MMORPG titles.
+
+We hope you to enjoy most well-made classic MMORPG soon.
+
+
+*Before the game starts, kindly note that:
+-If the game cannot be launched because the game is crashing, please turn off anti-virus software programs such as Trend Micro and start again.
+-Should install DirectX 9 for launching DK Online. 
+
+
+

@@ -1,0 +1,5 @@
+Nvidia has a new GeForce 430.64 WHQL GPU driver available, and in certain situations, it can boost performance by up to 18 percent, the company claims.
+
+That lofty figure is tied to World World Z. According to Nvidia, owners of a GeForce RTX 2080 Ti graphics card stand to see up to 18 percent better performance when playing at 1920x1080, up to 11 percent at 2560x1440, and up to 7 percent at 3840x2160.
+
+Here's a look at how performance shakes out on other cards, based on Nvidia's own internal benchmarking:

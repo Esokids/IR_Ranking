@@ -1,0 +1,3 @@
+Descenders is a downhill freeriding game where the worlds and trails are procedurally generated so you'll never quite know what to expect. It just left Early Access today and got a big feature update: Multiplayer. While you're challenging yourself with terrifying speeds down narrow, winding paths and hurtling through dizzying jumps upside-down, you'll now find yourself racing alongside other players.
+
+I've been playing a bit today, working my way through the early stages of my downhill biking career and wiping out plenty of times along the way. The default keyboard controls take a bit of getting used to, but after a few courses they felt comfortable, and they can be fully remapped at any rate.
